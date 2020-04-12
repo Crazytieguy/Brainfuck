@@ -1,2 +1,2 @@
 # Brainfuck
-Brainfuck projects
+Brainfuck projects for Aur's classes
